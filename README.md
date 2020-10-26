@@ -1,0 +1,1 @@
+# qbs-demo-core
